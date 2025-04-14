@@ -1,0 +1,5 @@
+Kebutuhan : composer, php v8+
+Jalankan cli (command line interface) berikut :
+- composer install
+- php artisan migrate (buat database dengan nama tugas-4 terlebih dahulu)
+- php artisan serve
